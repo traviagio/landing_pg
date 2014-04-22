@@ -12,7 +12,7 @@ $submit_url	= "http://us2.api.mailchimp.com/1.3/?method=listSubscribe"; - // Rep
 $double_optin = false;
 $send_welcome = false;
 $email_type = 'html';
-$email = $_POST['email'];
+$email = $_POST['georgiev.georgio@gmail.com'];
 $merge_vars = array( 'YNAME' => $_POST['yname'] );
 
 $data = array(
