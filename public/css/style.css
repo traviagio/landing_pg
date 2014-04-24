@@ -47,7 +47,7 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #intro { 
-	background-image: url(../img/topbar-img.jpg); 
+	background-color: #33b5e5; 
 }
 
 .parallax {
@@ -58,11 +58,11 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #features { 
-	background-image: url(../img/bg.png);  
+	background-color: #33b5e5;   
 }
 
 #call-to-action { 
-	background-image: url(../img/bg.png); 
+	background-color: #33b5e5;  
 }
 
 /*------------------------------------------*/
@@ -216,7 +216,7 @@ ul {
 	margin-bottom: 30px;
 }
 
-.intro_feature {
+.intre {
 	margin-bottom: 20px;
 }
 
