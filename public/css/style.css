@@ -58,7 +58,8 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #features { 
-	background-color: #33b5e5;   
+	background-color: #33b5e5;
+	color: #;   
 }
 
 #call-to-action { 
@@ -556,7 +557,7 @@ textarea {
 /*------------------------------------------*/
 
 .feature-box-icon {
-    background-color: #666;
+    background-color: #2ea2cc;
     display: block;
     width: 60px;
     height: 60px;
