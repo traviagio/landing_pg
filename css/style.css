@@ -47,7 +47,8 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #intro { 
-	background-color: #33b5e5; 
+	/*background-image: "/img/digital-nomad.jpg"; */
+	background-image: url(../img/digital-nomad.jpg);
 }
 
 .parallax {
@@ -58,12 +59,11 @@ Tags: responsive, html5 template, one page, landing, startup, business, company,
 }
 
 #features { 
-	background-color: #33b5e5;
-	color: #;   
+	background-color: #33b5e5;  
 }
 
 #call-to-action { 
-	background-color: #33b5e5;  
+	background-image: url(../img/digital-nomad.jpg);  
 }
 
 /*------------------------------------------*/
